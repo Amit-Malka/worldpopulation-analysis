@@ -2,6 +2,8 @@
 
 This repository contains a Python script for analyzing world population data from 1960 to 2017. The script reads data from a CSV file and provides functionalities to check population data for specific countries and years, calculate population changes, and determine the country with the highest population change over a specified period.
 
+Important note: packages such as pandas and numpy were not used out of pre-choice to complete the task without them.
+
 ## Files
 
 - `population_analysis.py`: The main Python script for population analysis.
